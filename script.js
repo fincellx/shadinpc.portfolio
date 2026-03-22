@@ -61,7 +61,7 @@ revealElements.forEach(el => {
 });
 
 // Dynamic typing effect for Home Section
-const textArray = ["Business Development Manager", "Performance Marketer", "Growth Specialist"];
+const textArray = [ "Performance Marketer","Business Development", "Growth Specialist"];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
